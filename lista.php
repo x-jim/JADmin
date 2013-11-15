@@ -18,7 +18,7 @@ $consultx =  mysql_query($sql) or exit (mysql_error());
 	min-height:40px !important;	
 }
 #jadmin_lista {
-	width:788px;
+	width:1088px;
 }
 #ventana {
 	text-align:center;
